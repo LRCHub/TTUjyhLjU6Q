@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "About A Rock'n'Roll Band",
+  "base_artist": "the pillows",
+  "createdAt": "2026-03-18T12:33:08.527312Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "About A Rock’n’Roll Band",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/01_About_A_Rock’n’Roll_Band_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "About A Rock’n’Roll Band",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/02_About_A_Rock’n’Roll_Band_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "About A Rock'n'Roll Band",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/03_About_A_Rock'n'Roll_Band_the_pillows.lrc"
+    }
+  ]
+}
